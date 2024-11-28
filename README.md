@@ -1,2 +1,2 @@
 # Curso DigitalOcean
- Anotações do curso da Alura DigitalOcean
+ Anotações do curso da Alura Azure EKS
